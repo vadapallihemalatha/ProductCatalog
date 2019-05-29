@@ -1,0 +1,11 @@
+.product-left-image{
+  height:200px;  
+}
+
+.product_heading{
+    font-size: 36px;
+}
+
+img.disabled {
+    opacity: 0.5;
+  }
